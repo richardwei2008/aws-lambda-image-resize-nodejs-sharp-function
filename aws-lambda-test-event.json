@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "my-richaaaard-awesome-test"
+        },
+        "object": {
+          "key": "test.jpg"
+        }
+      }
+    }
+  ]
+}
